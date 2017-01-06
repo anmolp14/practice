@@ -24,7 +24,7 @@
 
  ![](https://s24.postimg.org/oz53okxth/3.png)
 
-![](https://s24.postimg.org/h7odq0to5/4.png)
+ ![](https://s24.postimg.org/h7odq0to5/4.png)
  
 * Create the **_home_** partition using the same steps as above. Use all the available free space left for home partition size. The partition settings should look like this:
 
@@ -34,15 +34,13 @@
          Use as = EXT4 journaling file system
          Mount point = /home
 
-![](https://s24.postimg.org/69d47u52t/5.png) 
+   ![](https://s24.postimg.org/69d47u52t/5.png) 
 
 * Hit the **Install Now** button to apply changes and start the installation process. An alert regarding swap space will appear click on **Continue**. Again a pop-up window will appear, hit **Continue** to write changes to disc and the installation process will now begin.
-
-
 * Next select a nearby city and hit **Continue**.
 * Next select **keyboard layout** and hit **Continue**.
 * Fill up the **Who are you?** window and hit **Continue**. From here installation process will run automatically till it reaches the end.
-![](https://s24.postimg.org/fv6oo4w8l/6.png)
+ ![](https://s24.postimg.org/fv6oo4w8l/6.png)
 
 
 * After installation restart the system and choose **Ubuntu 16.04** from the **Grub** menu and now you can enjoy the vivid features of **Ubuntu**.
